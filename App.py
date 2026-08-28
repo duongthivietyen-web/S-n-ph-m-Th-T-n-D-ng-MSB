@@ -45,3 +45,4 @@ if not df.empty:
             file_name=excel_file,
             mime="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
         )
+ADMIN_PASSWORD = "123456"  # bạn có thể đổi thành mật khẩu khác
